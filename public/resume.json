@@ -1,0 +1,483 @@
+{
+  "basics": {
+    "name": "Javier Cabrera",
+    "label": "Fullstack JS and Java Developer",
+    "picture": "https://avatars0.githubusercontent.com/u/3462917?s=460&v=4",
+    "email": "cabrera.javier@gmail.com",
+    "phone": "(+34) 634 55-0886",
+    "website": "https://tecla5.com",
+    "summary": [
+      "Javier hails from Venezuela. He has earned degrees from the University of Central de Venezuela. Before starting as freelancer, he worked for Movistar as a full time software developer. While his work focuses on software programming, mostly finding new techs and applying it, his non-work interests range widely, everything from arts to psychology. He could tell you about it, next time!"
+    ],
+    "location": {
+      "address": "carrer França Xica 16",
+      "postalCode": "BCN 08004",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "region": "Cataluña"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jcc2303",
+        "url": "https://twitter.com/jcc2303"
+      },
+      {
+        "network": "github",
+        "username": "jcc2303",
+        "url": "https://jcc2303.github.io/#/"
+      },
+      {
+        "network": "linkedIn",
+        "username": "jcabrera",
+        "url": "https://www.linkedin.com/in/javier-cabrera-79bb4119/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "tecla5",
+      "position": "CEO/JsDeveloper",
+      "website": "https://tecla5.com",
+      "startDate": "2013-12-01",
+      "summary": "Tecla5 is a software development company with headquarters in Barcelona, Spain. We started as a small team in Barcelona and have now grown to a team spanning the globe. Our engineers are actively researching and working with the latest technologies helping us always provide the best solution available.",
+      "highlights": [
+        "Power your apps with data APIs and business logic using micro services for better scalability, flexibility and management",
+        "We develop both multi- and single page web apps (MPAs & SPAs).",
+        "We deliver complete front-to-back solutions using our powerful custom tech stack.",
+        "mongo | docker | graphql | vue | node | express | heroku | circleci | bitbucket "
+      ]
+    },
+    {
+      "company": "Nestle",
+      "position": "QA/Js",
+      "website": "http://www.nestle.com/",
+      "startDate": "2018-03-16",
+      "summary": "Nestlé is the world’s largest food and beverage company. Neste have IT Deparment based in Barcelona, Spain.",
+      "highlights": [
+        "Improvement the framework used inside QA process",
+        "Design test plan, test executions, and test for all deliveries in Nestle.",
+        "gigya | Js | cucumber | selenium | node | puppeteer | git"
+      ]
+    },
+    {
+      "company": "homes-ag",
+      "position": "CTO/JsC#Developer",
+      "website": "http://www.homes.ag/",
+      "startDate": "2017-11-01",
+      "endDate": "2017-07-01",
+      "summary": "Homes, Real state, focused in create an networks of freelancer in Barcelona and Spain.",
+      "highlights": [
+        "Design of the infrastructure applications,and flow to delivery on production",
+        "Design the base for the react client for the indexer app",
+        "Design scraping and api to consumed for the front-end.",
+        "postgres | C# | react | node | express | git"
+      ]
+    },
+    {
+      "company": "SMI - Ltd",
+      "position": "JsDeveloper",
+      "website": "https://offsidegaming.com",
+      "startDate": "2015-04-01",
+      "endDate": "2015-11-01",
+      "summary": "SMI is a betting platform provider with their main offices in London",
+      "highlights": [
+        "Spear-heading their shift to a multi layered application architecture",
+        "Rapid rendering with async server rendering",
+        "Component with polymer project of Google that GraphQL client",
+        "gulp | metalsmith | node | koa | marko | lazo | html | css | js"
+      ]
+    },
+    {
+      "company": "jeagle",
+      "position": "CEO/JavaDeveloper",
+      "website": "https://jeagle.es",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Jeagle infraestructure for your company.",
+      "highlights": [
+        "Power the main app with interface and keep project on evolution",
+        "docker | swarm | services | jenkins | jira"
+      ]
+    },
+    {
+      "company": "HP",
+      "position": "QA/Automation Tester/JavaDeveloper",
+      "website": "https://www.hp.com",
+      "startDate": "2012-04-01",
+      "endDate": "2013-12-01",
+      "summary": "HP with his own cms in drupal to sell all image repository",
+      "highlights": [
+        "Resposability of Continuos Integration (CI) in the SMS project",
+        "design and integration of every component of test with maven using BDD methodology",
+        "Instalation and configuration of different system like Jenkins, maven, sonar, SVN, etc",
+        "CI | CD | Jenkins | maven | shell | ssh"
+      ]
+    },
+    {
+      "company": "Aigues de Barcelona",
+      "position": "Architect/JavaDeveloper",
+      "website": "http://www.aiguesdebarcelona.cat",
+      "startDate": "2011-06-01",
+      "endDate": "2012-03-01",
+      "summary": "Aigues de Barcelona, with system ticket for report problems with the bills",
+      "highlights": [
+        "Working with Migration application technology, designing work flow process with JBPM in AquaGest system"
+      ]
+    },
+    {
+      "company": "SCYTL",
+      "position": "Architect/JavaDevelper",
+      "website": "https://www.scytl.com/",
+      "startDate": "2010-06-01",
+      "endDate": "2011-06-01",
+      "summary": "Scytl is the worldwide leader in secure electronic voting, election management and election modernization solutions",
+      "highlights": [
+        "develop applications using cryptographic protocols that secure the election",
+        "Architect Design and implement and responsible on production for assigned election projects",
+        "lead project based on J2EE"
+      ]
+    },
+    {
+      "company": "TDA",
+      "position": "Analyst/JavaDeveloper",
+      "website": "https://www.tda-sgft.com/",
+      "startDate": "2009-04-01",
+      "endDate": "2010-04-01",
+      "summary": "Titulizacion de Activos, Creation of investment funds ",
+      "highlights": [
+        "Maintenance and new functionalities of the core software in a company of Asset Securitization, having acquired knowledge of finance and high transaction assets"
+      ]
+    },
+    {
+      "company": "Registradores de España",
+      "position": "Java Analyst",
+      "website": "http://www.registradores.org/",
+      "startDate": "2008-05-01",
+      "endDate": "2009-02-01",
+      "summary": "Create new ways to comunicate differents applications insede the company",
+      "highlights": [
+        "Optimization and maintenance of electronic signature of documents by the  Registrar's College in Spain. Migration of business logic",
+        "Creation of new project management and telemetries technologies to the remote signature"
+      ]
+    },
+    {
+      "company": "Digitel TIM",
+      "position": "Business Systems Specialist",
+      "website": "http://www.digitel.com.ve/",
+      "startDate": "2007-03-01",
+      "endDate": "2007-12-01",
+      "summary": "Create new ways to comunicate differents applications insede the company",
+      "highlights": [
+        "Management Webservices WebServices, EJB, JMS, based on J2EE",
+        "Analysis, design and implementation Web Projects",
+        "Sockets and connections to other legacy systems, database connections and servers"
+      ]
+    },
+    {
+      "company": "Movilnet",
+      "position": "Lead Java Developer",
+      "website": "http://www.movilnet.com.ve/",
+      "startDate": "2006-10-01",
+      "endDate": "2007-03-01",
+      "summary": "Movilnet promotion site, looking for new customers",
+      "highlights": [
+        "Creation functionalities over post-paid mobile architecture system developed in J2EE",
+        "Delegate task to the team",
+        "Responsable for deploy on production"
+      ]
+    },
+    {
+      "company": "Movistar",
+      "position": "Java Developer",
+      "website": "https://www.movistar.com",
+      "startDate": "2005-12-01",
+      "endDate": "2006-10-01",
+      "summary": "Movistar with the postpaid program",
+      "highlights": [
+        "maintenance and creation functionalities over post-paid mobile architecture system developed in J2EE"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Coderworks",
+      "position": "Teacher",
+      "website": "https://codeworks.me/",
+      "startDate": "2015-07-07",
+      "endDate": "2016-01-30",
+      "summary": "share our vision, support Codeworks’ mission, and collaborate with our educational activities on multiple levels.",
+      "highlights": [
+        "assistant for events inside"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Central of Venezuela",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2000-03-01",
+      "endDate": "2005-12-01",
+      "summary": "it was 5 intense years of study",
+      "courses": [
+        "Redes", "DDBB", "IA"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "projects": [
+    {
+        "name": "VueGraphqlHouse",
+        "publisher": "Javier Cabrera",
+        "category": "Real State",
+        "releaseDate": "2018",
+        "website": "http://t5-houses.herokuapp.com/",
+        "summary": "js | node | express | graphql | mongo",
+        "image": {
+            "modal": "images/loader.gif",
+            "thumb": "images/loader.gif"
+        },
+        "keywords": [
+            "js | node | express | graphql | mongo"
+        ]
+    },
+    {
+      "name": "Freewater",
+      "publisher": "Javier Cabrera",
+      "category": "",
+      "releaseDate": "2018",
+      "website": "http://freewater.herokuapp.com/",
+      "summary": "'js', 'polymer', 'firebase'",
+      "image": {
+        "modal": "images/loader.gif",
+        "thumb": "images/loader.gif"
+      },
+      "keywords": [
+        "js | node | express | graphql | mongo"
+      ]
+    }, {
+      "name": "Blog",
+      "publisher": "Javier Cabrera",
+      "category": "",
+      "releaseDate": "2018",
+      "website": "http://blog.tecla5.com/",
+      "summary": "'js', 'node'",
+      "image": {
+        "modal": "images/loader.gif",
+        "thumb": "images/loader.gif"
+      },
+      "keywords": [
+        "js | node | express | graphql | mongo"
+      ]
+    }, {
+      "name": "Comic",
+      "publisher": "Javier Cabrera",
+      "category": "",
+      "releaseDate": "2018",
+      "website": "http://comic.tecla5.com/",
+      "summary": "'js', 'clojurescript'",
+      "image": {
+        "modal": "images/loader.gif",
+        "thumb": "images/loader.gif"
+      },
+      "keywords": [
+        "js | node | express | graphql | mongo"
+      ]
+    }, {
+      "name": "Sumary",
+      "publisher": "Javier Cabrera",
+      "category": "",
+      "releaseDate": "2018",
+      "website": "https://jcc2303.github.io/summary/#/",
+      "summary": "'js'",
+      "image": {
+        "modal": "images/loader.gif",
+        "thumb": "images/loader.gif"
+      },
+      "keywords": [
+        "js | node | express | graphql | mongo"
+      ]
+    }, {
+      "name": "cashout",
+      "publisher": "Javier Cabrera",
+      "category": "",
+      "releaseDate": "2018",
+      "website": "http://cashout-t5.herokuapp.com/",
+      "summary": "'js'",
+      "image": {
+        "modal": "images/loader.gif",
+        "thumb": "images/loader.gif"
+      },
+      "keywords": [
+        "js | node | express | graphql | mongo"
+      ]
+    }    
+  ],
+  "skills": [
+    {
+      "title": "JS Web Development",
+      "description": [
+          "Web development with js and java"
+      ],
+      "skillDetails": [
+          {
+              "name": "JS Web Development",
+              "level": "90",
+              "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Java"
+              ]
+          }
+      ], 
+      "name": "JS Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Java"
+      ]
+    },
+    {
+      "title": "Web Testing",
+      "description": [
+          "learned different frameworks for e2e testing"
+      ],
+      "skillDetails": [
+          {
+              "name": "Web Testing",
+              "level": "80",
+              "keywords": [
+                "Test",
+                "E2E",
+                "CI",
+                "CD",
+                "Test Runner",
+                "Automation"
+              ]
+          }
+      ], 
+      "name": "Web Testing",
+      "level": "Master",
+      "keywords": [
+        "Test",
+        "E2E",
+        "CI",
+        "CD",
+        "Test Runner",
+        "Automation"
+      ]
+    },
+    {
+      "title": "Persistence Data",
+      "description": [
+          "Learned different ways to store data and retrieve it"
+      ],
+      "skillDetails": [
+          {
+              "name": "Persistence Data",
+              "level": "60",
+              "keywords": [
+                "DMSDB",
+                "ORM",
+                "PL/SQL",
+                "NoSQL"
+              ]
+          }
+      ], 
+      "name": "Persistence Data",
+      "level": "Master",
+      "keywords": [
+        "DMSDB",
+        "ORM",
+        "PL/SQL",
+        "NoSQL"
+      ]
+    },
+    {
+      "title": "Infrastructure",
+      "description": [
+          "Learned about SO and ways to construct infraestructures"
+      ],
+      "skillDetails": [
+          {
+              "name": "Infrastructure",
+              "level": "50",
+              "keywords": [
+                "Linux",
+                "Virtual Machines",
+                "Containers",
+                "Shell",
+                "Server"
+              ]
+          }
+      ], 
+      "name": "Infrastructure",
+      "level": "Master",
+      "keywords": [
+        "Linux",
+        "Virtual Machines",
+        "Containers",
+        "Shell",
+        "Server"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "Spanish",
+      "level": "fluent",
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "name": "English",
+      "level": "fluent",
+      "language": "English",
+      "fluency": "Conversation"
+    },
+    {
+      "name": "French",
+      "level": "basic",
+      "language": "French",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Chess",
+      "keywords": [
+        "Competition",
+        "Social"
+      ]
+    },    
+    {
+      "name": "Dance",
+      "keywords": [
+        "Salsa",
+        "Bachata",
+        "Hip-Hop",
+        "Kizomba",
+        "Tango"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jean Zambrano",
+      "reference": "Javier is creative, perfect for innnovate",
+      "position": "DevOps",
+      "company": "TDA"
+    },
+    {
+      "name": "Kristian Madrup",
+      "reference": "Javier is focused to find good tech solutions",
+      "position": "CTO",
+      "company": "SMI"
+}
+  ]
+}
