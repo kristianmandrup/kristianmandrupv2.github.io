@@ -1,227 +1,200 @@
 {
   "basics": {
-    "name": "Javier Cabrera",
-    "label": "Fullstack JS and Java Developer",
+    "name": "Kristian Mandrup",
+    "label": "Tech lead",
     "picture": "https://avatars0.githubusercontent.com/u/3462917?s=460&v=4",
-    "email": "cabrera.javier@gmail.com",
-    "phone": "(+34) 634 55-0886",
+    "email": "kmandrup@gmail.com",
+    "phone": "(+44) 7788 394925",
     "website": "https://tecla5.com",
     "summary": [
-      "Javier hails from Venezuela. He has earned degrees from the University of Central de Venezuela. Before starting as freelancer, he worked for Movistar as a full time software developer. While his work focuses on software programming, mostly finding new techs and applying it, his non-work interests range widely, everything from arts to psychology. He could tell you about it, next time!"
+      "Kristian is ..."
     ],
     "location": {
-      "address": "carrer França Xica 16",
-      "postalCode": "BCN 08004",
-      "city": "Barcelona",
-      "countryCode": "ES",
-      "region": "Cataluña"
+      "address": "Flat 21, 235 Willesden Lane",
+      "postalCode": "NW25RR",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "London"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "jcc2303",
-        "url": "https://twitter.com/jcc2303"
+        "username": "kmandrup",
+        "url": "https://twitter.com/kmandrup"
       },
       {
         "network": "github",
-        "username": "jcc2303",
-        "url": "https://jcc2303.github.io/#/"
+        "username": "kristianmandrup",
+        "url": "https://kristianmandrup.github.io/#/"
       },
       {
         "network": "linkedIn",
-        "username": "jcabrera",
-        "url": "https://www.linkedin.com/in/javier-cabrera-79bb4119/"
+        "username": "kristianmandrup",
+        "url": "https://www.linkedin.com/in/kristianmandrup/"
       }
     ]
   },
   "work": [
     {
-      "company": "tecla5",
-      "position": "CEO/JsDeveloper",
-      "website": "https://tecla5.com",
-      "startDate": "2013-12-01",
+      "company": "Engine Transformation",
+      "position": "Principal Developer",
+      "website": "https://transformation.enginegroup.com/",
+      "startDate": "2013-15-06",
+      "summary": "We define, design and build solutions accelerate and augment exist programmes and embed new ways of working to create the foundations for future success.",
+      "highlights": [
+        "MMO Catch Recording app - SSR, SPA and native mobile app in React",
+        "ORC international Survey Gizmo backend using AWS API gateway lambdas and S3 with Python",
+        "E-ON onboarding demo app, native mobile and web, using AWS Amplify with React and Ionic",
+        "AWS | React | AWS Amplify | AWS lambda | Hapi API | Express | CircleCI"
+      ]
+    },
+    {
+      "company": "Telia Denmark",
+      "position": "Senior Consultant",
+      "website": "https://www.telia.dk",
+      "startDate": "2018-07-01",
+      "summary": "Swedish multinational telephone company and mobile network operator present in Sweden, Finland, Norway, Denmark, Lithuania, Latvia and Estonia.",
+      "highlights": [
+        "Develop advanced infrastructure for efficient backend integration testing",
+        "Develop Visual Studio plugins and tooling",
+        "Improve the API server by refactoring the code and fixing bugs",
+        "C# | Typescript"
+      ]
+    },
+    {
+      "company": "Yeay",
+      "position": "CTO",
+      "website": "http://www.yeay.com/",
+      "startDate": "2018-04-01",
+      "summary": "A social shopping app, which lets users make and upload videos to sell products, largely fashion and lifestyle goods",
+      "highlights": [
+        "Re-engineer the backend from monolith to modular micro services",
+        "Prepare tech stack for the launch of the WOM token",
+        "Manage the development of a Flutter application to replace the native Swift/Kotlin based apps",
+        "Flutter | NodeJS | AWS | Solidity"
+      ]
+    },
+    {
+      "company": "Tecla5",
+      "position": "CTO",
+      "website": "http://www.tecla5.com/",
+      "startDate": "2015-10-01",
+      "endDate": "2018-04-01",
       "summary": "Tecla5 is a software development company with headquarters in Barcelona, Spain. We started as a small team in Barcelona and have now grown to a team spanning the globe. Our engineers are actively researching and working with the latest technologies helping us always provide the best solution available.",
       "highlights": [
         "Power your apps with data APIs and business logic using micro services for better scalability, flexibility and management",
         "We develop both multi- and single page web apps (MPAs & SPAs).",
         "We deliver complete front-to-back solutions using our powerful custom tech stack.",
-        "mongo | docker | graphql | vue | node | express | heroku | circleci | bitbucket "
+        "MongoDB | Docker | GraphQL | Vue | React | NodeJS | Express | Heroku | CircleCI"
       ]
     },
     {
-      "company": "Nestle",
-      "position": "QA/Js",
-      "website": "http://www.nestle.com/",
-      "startDate": "2018-03-16",
-      "summary": "Nestlé is the world’s largest food and beverage company. Neste have IT Deparment based in Barcelona, Spain.",
-      "highlights": [
-        "Improvement the framework used inside QA process",
-        "Design test plan, test executions, and test for all deliveries in Nestle.",
-        "gigya | Js | cucumber | selenium | node | puppeteer | git"
-      ]
-    },
-    {
-      "company": "homes-ag",
-      "position": "CTO/JsC#Developer",
-      "website": "http://www.homes.ag/",
-      "startDate": "2017-11-01",
-      "endDate": "2017-07-01",
-      "summary": "Homes, Real state, focused in create an networks of freelancer in Barcelona and Spain.",
-      "highlights": [
-        "Design of the infrastructure applications,and flow to delivery on production",
-        "Design the base for the react client for the indexer app",
-        "Design scraping and api to consumed for the front-end.",
-        "postgres | C# | react | node | express | git"
-      ]
-    },
-    {
-      "company": "SMI - Ltd",
-      "position": "JsDeveloper",
-      "website": "https://offsidegaming.com",
-      "startDate": "2015-04-01",
-      "endDate": "2015-11-01",
+      "company": "Sports Media Interactive SMI",
+      "position": "Web Tech Lead",
+      "website": "https://sportsmediainteractive.co.uk/",
+      "startDate": "2014-09-01",
+      "endDate": "2015-09-30",
       "summary": "SMI is a betting platform provider with their main offices in London",
       "highlights": [
-        "Spear-heading their shift to a multi layered application architecture",
-        "Rapid rendering with async server rendering",
-        "Component with polymer project of Google that GraphQL client",
-        "gulp | metalsmith | node | koa | marko | lazo | html | css | js"
+        "Managing development of web application in London office (HQ)",
+        "Managing multiple off-shore development teams from Russia to Costa Rica",
+        "Spear-heading migration to a multi layered service based backe-end architecture",
+        "Developing front-end API server in KoaJS",
+        "Rapid rendering with async server rendering (Marko templating)",
+        "NodeJS | Ruby on Rails | KoaJS | Marko | Gulp"
       ]
     },
     {
-      "company": "jeagle",
-      "position": "CEO/JavaDeveloper",
-      "website": "https://jeagle.es",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Jeagle infraestructure for your company.",
+      "company": "Infomatrix",
+      "position": "Senior Technical Project lead",
+      "website": "https://www.coe.int",
+      "startDate": "2010-11-01",
+      "endDate": "2013-09-01",
+      "summary": "Global freelance consulting group developing web solutions for clients",
       "highlights": [
-        "Power the main app with interface and keep project on evolution",
-        "docker | swarm | services | jenkins | jira"
+        "Developed various web sites, components and services for clients",
+        "Ruby on Rails | Grails | Javascript"
       ]
     },
     {
-      "company": "HP",
-      "position": "QA/Automation Tester/JavaDeveloper",
-      "website": "https://www.hp.com",
-      "startDate": "2012-04-01",
-      "endDate": "2013-12-01",
-      "summary": "HP with his own cms in drupal to sell all image repository",
-      "highlights": [
-        "Resposability of Continuos Integration (CI) in the SMS project",
-        "design and integration of every component of test with maven using BDD methodology",
-        "Instalation and configuration of different system like Jenkins, maven, sonar, SVN, etc",
-        "CI | CD | Jenkins | maven | shell | ssh"
-      ]
-    },
-    {
-      "company": "Aigues de Barcelona",
-      "position": "Architect/JavaDeveloper",
-      "website": "http://www.aiguesdebarcelona.cat",
-      "startDate": "2011-06-01",
-      "endDate": "2012-03-01",
-      "summary": "Aigues de Barcelona, with system ticket for report problems with the bills",
-      "highlights": [
-        "Working with Migration application technology, designing work flow process with JBPM in AquaGest system"
-      ]
-    },
-    {
-      "company": "SCYTL",
-      "position": "Architect/JavaDevelper",
-      "website": "https://www.scytl.com/",
-      "startDate": "2010-06-01",
-      "endDate": "2011-06-01",
-      "summary": "Scytl is the worldwide leader in secure electronic voting, election management and election modernization solutions",
-      "highlights": [
-        "develop applications using cryptographic protocols that secure the election",
-        "Architect Design and implement and responsible on production for assigned election projects",
-        "lead project based on J2EE"
-      ]
-    },
-    {
-      "company": "TDA",
-      "position": "Analyst/JavaDeveloper",
-      "website": "https://www.tda-sgft.com/",
+      "company": "TrygVesta",
+      "position": "Lead SOA Architect",
+      "website": "https://www.tryg.com/en",
       "startDate": "2009-04-01",
-      "endDate": "2010-04-01",
-      "summary": "Titulizacion de Activos, Creation of investment funds ",
+      "endDate": "2010-07-01",
+      "summary": "Tryg is one of the largest non-life insurance companies in the Nordic region with activities in Denmark, Norway and Sweden.",
       "highlights": [
-        "Maintenance and new functionalities of the core software in a company of Asset Securitization, having acquired knowledge of finance and high transaction assets"
+        "Designed the blueprint for the SOA processes and architecture to be used in future development",
+        "Developed tools to faciliate working with SOA, including dependency graphs, monitoring etc",
+        "SOA | Groovy | Eclipse"
       ]
     },
     {
-      "company": "Registradores de España",
-      "position": "Java Analyst",
-      "website": "http://www.registradores.org/",
-      "startDate": "2008-05-01",
-      "endDate": "2009-02-01",
-      "summary": "Create new ways to comunicate differents applications insede the company",
+      "company": "SKAT",
+      "position": "Lead SOA Architect",
+      "website": "https://skat.dk/",
+      "startDate": "2007-12-01",
+      "endDate": "2009-04-10",
+      "summary": "Government Administration tasked with managing and collecting all taxes, tariffs, fines and debts owed to the Danish government",
       "highlights": [
-        "Optimization and maintenance of electronic signature of documents by the  Registrar's College in Spain. Migration of business logic",
-        "Creation of new project management and telemetries technologies to the remote signature"
+        "Architect on EFI project, one of the most ambitious danish IT projects",
+        "In charge of the SOA platform architecture, evaluating bids from large enterprise vendors including(CSC, IBM & KMD).",
+        "SOA | Java | Eclipse | BPMN | Rule engine"
       ]
     },
     {
-      "company": "Digitel TIM",
-      "position": "Business Systems Specialist",
-      "website": "http://www.digitel.com.ve/",
-      "startDate": "2007-03-01",
-      "endDate": "2007-12-01",
-      "summary": "Create new ways to comunicate differents applications insede the company",
-      "highlights": [
-        "Management Webservices WebServices, EJB, JMS, based on J2EE",
-        "Analysis, design and implementation Web Projects",
-        "Sockets and connections to other legacy systems, database connections and servers"
-      ]
-    },
-    {
-      "company": "Movilnet",
-      "position": "Lead Java Developer",
-      "website": "http://www.movilnet.com.ve/",
-      "startDate": "2006-10-01",
-      "endDate": "2007-03-01",
-      "summary": "Movilnet promotion site, looking for new customers",
-      "highlights": [
-        "Creation functionalities over post-paid mobile architecture system developed in J2EE",
-        "Delegate task to the team",
-        "Responsable for deploy on production"
-      ]
-    },
-    {
-      "company": "Movistar",
-      "position": "Java Developer",
-      "website": "https://www.movistar.com",
+      "company": "Oracle",
+      "position": "SOA Architect",
+      "website": "https://www.oracle.com/",
       "startDate": "2005-12-01",
-      "endDate": "2006-10-01",
-      "summary": "Movistar with the postpaid program",
+      "endDate": "2006-12-01",
+      "summary": "Oracle delivers software components to deliver proven infrastructure for enterprise clients",
       "highlights": [
-        "maintenance and creation functionalities over post-paid mobile architecture system developed in J2EE"
+        "Designed and implemented authentication and authorisation solution for Tele Denmark",
+        "Developed BPMN SOA solution for Copenhagen University",
+        "Lead the development of an end-to-end web site solution for Naturgas Fyn",
+        "SOA | Java | Eclipse | BPMN | Rule engine"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Coderworks",
-      "position": "Teacher",
-      "website": "https://codeworks.me/",
-      "startDate": "2015-07-07",
-      "endDate": "2016-01-30",
-      "summary": "share our vision, support Codeworks’ mission, and collaborate with our educational activities on multiple levels.",
+      "company": "Devoteam Consulting",
+      "position": "IT Enterprise Architect",
+      "website": "https://www.devoteam.com/",
+      "startDate": "2004-05-01",
+      "endDate": "2005-02-01",
+      "summary": "Devoteam delivers Innovative Technology Consulting for Business.",
       "highlights": [
-        "assistant for events inside"
+        "Gathered requirement specs and wrote full Technical Requirements specs to prepare for bids",
+        "Designed new enterprise system architectures for enterprise and government clients",
+        "SOA | Java | Eclipse | BPMN | Rule engine"
+      ]
+    },
+    {
+      "company": "Saxo Bank",
+      "position": "Web developer",
+      "website": "https://www.home.saxo",
+      "startDate": "2003-09-01",
+      "endDate": "2004-05-01",
+      "summary": "Danish bank with an online trading platform that empowers you to invest across global financial markets.",
+      "highlights": [
+        "Developed internal web site, systems and tools to enable and promote online trading",
+        "JSP | Java | Javascript | VB"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Central of Venezuela",
-      "area": "Information Technology",
+      "institution": "Copenhagen Business School (CBS)",
+      "area": "Business Administration",
       "studyType": "Bachelor",
-      "startDate": "2000-03-01",
-      "endDate": "2005-12-01",
-      "summary": "it was 5 intense years of study",
+      "startDate": "2009-09-01",
+      "endDate": "2010-06-01",
+      "summary": "Learned the basics of Business Administration",
       "courses": [
-        "Redes", "DDBB", "IA"
+        "Economics",
+        "Statistics",
+        "Economic Law",
+        "IT for Economists"
       ]
     }
   ],
@@ -229,255 +202,230 @@
   "publications": [],
   "projects": [
     {
-        "name": "VueGraphqlHouse",
-        "publisher": "Javier Cabrera",
-        "category": "Real State",
-        "releaseDate": "2018",
-        "website": "http://t5-houses.herokuapp.com/",
-        "summary": "js | node | express | graphql | mongo",
-        "image": {
-            "modal": "images/loader.gif",
-            "thumb": "images/loader.gif"
-        },
-        "keywords": [
-            "js | node | express | graphql | mongo"
-        ]
-    },
-    {
-      "name": "Freewater",
-      "publisher": "Javier Cabrera",
+      "name": "schema-to-yup",
+      "publisher": "Kristian Mandrup",
       "category": "",
       "releaseDate": "2018",
-      "website": "http://freewater.herokuapp.com/",
-      "summary": "'js', 'polymer', 'firebase'",
-      "image": {
-        "modal": "images/loader.gif",
-        "thumb": "images/loader.gif"
-      },
+      "website": "http://github.com/kristianmandrup/schema-to-yup",
+      "summary": "JSON or GraphQL schema to Yup validator",
       "keywords": [
-        "js | node | express | graphql | mongo"
+        "typescript | JSON schema | yup | validator"
       ]
-    }, {
-      "name": "Blog",
-      "publisher": "Javier Cabrera",
-      "category": "",
-      "releaseDate": "2018",
-      "website": "http://blog.tecla5.com/",
-      "summary": "'js', 'node'",
-      "image": {
-        "modal": "images/loader.gif",
-        "thumb": "images/loader.gif"
-      },
-      "keywords": [
-        "js | node | express | graphql | mongo"
-      ]
-    }, {
-      "name": "Comic",
-      "publisher": "Javier Cabrera",
-      "category": "",
-      "releaseDate": "2018",
-      "website": "http://comic.tecla5.com/",
-      "summary": "'js', 'clojurescript'",
-      "image": {
-        "modal": "images/loader.gif",
-        "thumb": "images/loader.gif"
-      },
-      "keywords": [
-        "js | node | express | graphql | mongo"
-      ]
-    }, {
-      "name": "Sumary",
-      "publisher": "Javier Cabrera",
-      "category": "",
-      "releaseDate": "2018",
-      "website": "https://jcc2303.github.io/summary/#/",
-      "summary": "'js'",
-      "image": {
-        "modal": "images/loader.gif",
-        "thumb": "images/loader.gif"
-      },
-      "keywords": [
-        "js | node | express | graphql | mongo"
-      ]
-    }, {
-      "name": "cashout",
-      "publisher": "Javier Cabrera",
-      "category": "",
-      "releaseDate": "2018",
-      "website": "http://cashout-t5.herokuapp.com/",
-      "summary": "'js'",
-      "image": {
-        "modal": "images/loader.gif",
-        "thumb": "images/loader.gif"
-      },
-      "keywords": [
-        "js | node | express | graphql | mongo"
-      ]
-    }    
+    }
   ],
   "skills": [
     {
-      "title": "JS Web Development",
+      "title": "Tech leadership",
       "description": [
-          "Web development with js and java"
+        "Managing tech teams or tech organisations"
       ],
       "skillDetails": [
-          {
-              "name": "JS Web Development",
-              "level": "90",
-              "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript",
-                "Java"
-              ]
-          }
-      ], 
-      "name": "JS Web Development",
+        {
+          "name": "Tech leadership",
+          "level": "80",
+          "keywords": [
+            "Team management",
+            "Line management",
+            "Tech decisions",
+            "Vision"
+          ]
+        }
+      ],
+      "name": "Tech leadership",
+      "level": "Master",
+      "keywords": [
+        "Team management",
+        "Line management",
+        "Tech decisions",
+        "Vision"
+      ]
+    },
+    {
+      "title": "Cloud Architecture",
+      "description": [
+        "Architect cloud infrastructure and architecture"
+      ],
+      "skillDetails": [
+        {
+          "name": "Cloud Architecture",
+          "level": "90",
+          "keywords": [
+            "AWS",
+            "GCP",
+            "Azure"
+          ]
+        }
+      ],
+      "name": "Cloud Architecture",
+      "level": "Master",
+      "keywords": [
+        "AWS",
+        "GCP",
+        "Azure"
+      ]
+    },
+    {
+      "title": "Systems Architecture",
+      "description": [
+        "Architect design of large IT systems"
+      ],
+      "skillDetails": [
+        {
+          "name": "Systems Architecture",
+          "level": "90",
+          "keywords": [
+            "Architecture",
+            "Services",
+            "Infrastructure"
+          ]
+        }
+      ],
+      "name": "Systems Architecture",
+      "level": "Master",
+      "keywords": [
+        "Architecture",
+        "Services",
+        "Infrastructure"
+      ]
+    },
+    {
+      "title": "Web Development",
+      "description": [
+        "Web development"
+      ],
+      "skillDetails": [
+        {
+          "name": "Web Development",
+          "level": "95",
+          "keywords": [
+            "HTML",
+            "CSS",
+            "Javascript"
+          ]
+        }
+      ],
+      "name": "Web Development",
       "level": "Master",
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript",
-        "Java"
+        "Javascript"
       ]
     },
     {
-      "title": "Web Testing",
+      "title": "Language design",
       "description": [
-          "learned different frameworks for e2e testing"
+        "Designing and implementing new programmaing languages and DSLs"
       ],
       "skillDetails": [
-          {
-              "name": "Web Testing",
-              "level": "80",
-              "keywords": [
-                "Test",
-                "E2E",
-                "CI",
-                "CD",
-                "Test Runner",
-                "Automation"
-              ]
-          }
-      ], 
-      "name": "Web Testing",
-      "level": "Master",
-      "keywords": [
-        "Test",
-        "E2E",
-        "CI",
-        "CD",
-        "Test Runner",
-        "Automation"
-      ]
-    },
-    {
-      "title": "Persistence Data",
-      "description": [
-          "Learned different ways to store data and retrieve it"
-      ],
-      "skillDetails": [
-          {
-              "name": "Persistence Data",
-              "level": "60",
-              "keywords": [
-                "DMSDB",
-                "ORM",
-                "PL/SQL",
-                "NoSQL"
-              ]
-          }
-      ], 
-      "name": "Persistence Data",
-      "level": "Master",
-      "keywords": [
-        "DMSDB",
-        "ORM",
-        "PL/SQL",
-        "NoSQL"
-      ]
-    },
-    {
-      "title": "Infrastructure",
-      "description": [
-          "Learned about SO and ways to construct infraestructures"
-      ],
-      "skillDetails": [
-          {
-              "name": "Infrastructure",
-              "level": "50",
-              "keywords": [
-                "Linux",
-                "Virtual Machines",
-                "Containers",
-                "Shell",
-                "Server"
-              ]
-          }
-      ], 
-      "name": "Infrastructure",
-      "level": "Master",
-      "keywords": [
-        "Linux",
-        "Virtual Machines",
-        "Containers",
-        "Shell",
-        "Server"
+        {
+          "name": "Language design",
+          "level": "50",
+          "keywords": [
+            "parser",
+            "compiler",
+            "type checker"
+          ]
+        }
       ]
     }
   ],
   "languages": [
     {
-      "name": "Spanish",
+      "name": "Danish",
       "level": "fluent",
-      "language": "Spanish",
+      "language": "Danish",
       "fluency": "Native speaker"
     },
     {
       "name": "English",
       "level": "fluent",
       "language": "English",
-      "fluency": "Conversation"
+      "fluency": "fluent"
+    },
+    {
+      "name": "Spanish",
+      "level": "good",
+      "language": "Spanish",
+      "fluency": "conversation"
     },
     {
       "name": "French",
-      "level": "basic",
+      "level": "good",
       "language": "French",
-      "fluency": "Basic"
+      "fluency": "conversation"
+    },
+    {
+      "name": "German",
+      "level": "good",
+      "language": "German",
+      "fluency": "conversation"
+    },
+    {
+      "name": "Italian",
+      "level": "basic",
+      "language": "Italian",
+      "fluency": "understanding"
     }
   ],
   "interests": [
     {
-      "name": "Chess",
+      "name": "Surfing",
       "keywords": [
-        "Competition",
-        "Social"
+        "surfing"
       ]
-    },    
+    },
+    {
+      "name": "Skiing",
+      "keywords": [
+        "snowboard",
+        "ski"
+      ]
+    },
+    {
+      "name": "Playing music",
+      "keywords": [
+        "guitar"
+      ]
+    },
     {
       "name": "Dance",
       "keywords": [
         "Salsa",
-        "Bachata",
-        "Hip-Hop",
-        "Kizomba",
-        "Tango"
+        "Bachata"
       ]
     }
   ],
   "references": [
     {
-      "name": "Jean Zambrano",
-      "reference": "Javier is creative, perfect for innnovate",
-      "position": "DevOps",
+      "name": "Adrian Ignatescu",
+      "reference": "Adrian is a senior data analyst",
+      "position": "Data analyst",
+      "company": ""
+    },
+    {
+      "name": "Javier Cabrera",
+      "reference": "Javier was my partner in Tecla5",
+      "position": "CTO",
+      "company": ""
+    },
+    {
+      "name": "Ole Anker Jorgensen",
+      "reference": "Ole is a senior tech consultant",
+      "position": "CTO",
+      "company": "SKAT in Norway"
+    },
+    {
+      "name": "Ashley Ward",
+      "reference": "Asheley is a highly experienced developer and systems architect",
+      "position": "Principal Developer",
       "company": "TDA"
     },
     {
-      "name": "Kristian Madrup",
-      "reference": "Javier is focused to find good tech solutions",
-      "position": "CTO",
-      "company": "SMI"
-}
+      "name": "Jean Zambrano",
+      "reference": "Javier a passionate DevOps",
+      "position": "DevOps",
+      "company": "TDA"
+    }
   ]
 }
